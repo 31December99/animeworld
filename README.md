@@ -1,10 +1,10 @@
 # animeworld
 #
-Animeworld links downloader
+Animeworld links downloader (https://www.animeworld.so)
 
 The program is functional but still in an early stage, undergoing constant modifications.
 
-This script retrieves the links to the latest updates on AnimWorld.
+This script retrieves the links to the latest updates on AnimeWorld.
 
 ## Usage
 
@@ -26,10 +26,3 @@ This script retrieves the links to the latest updates on AnimWorld.
 ## Contribution
 
 Contributions are welcome! Feel free to open an issue or submit a pull request.
-
-
-## License
-
-
-## .env file Example:
-
