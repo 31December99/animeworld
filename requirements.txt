@@ -1,0 +1,11 @@
+aiosqlite==0.19.0
+beautifulsoup4==4.12.2
+certifi==2023.7.22
+charset-normalizer==3.2.0
+idna==3.4
+PlexAPI==4.15.2
+requests==2.31.0
+soupsieve==2.5
+tmdbv3api==1.9.0
+tvdb-v4-official==1.1.0
+urllib3==2.0.5
