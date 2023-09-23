@@ -1,4 +1,4 @@
-# animeworld
+# AnimeWorld
 #
 Animeworld links downloader (https://www.animeworld.so)
 
