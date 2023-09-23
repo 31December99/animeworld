@@ -65,7 +65,7 @@ class Awbot:
         except KeyboardInterrupt:
             pass
         finally:
-            self.loop.close()
+            pass
 
 
 if __name__ == "__main__":
