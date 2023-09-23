@@ -1,11 +1,10 @@
 # animeworld
 #
 Animeworld links downloader (https://www.animeworld.so)
+
 Create an SQLite3 database where you store all the links to the latest videos released on animeoworld based on the filter below
 
 The program is functional but still in an early stage, undergoing constant modifications.
-
-This script retrieves the links to the latest updates on AnimeWorld.
 
 ## Usage
 
