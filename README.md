@@ -12,8 +12,8 @@ This script retrieves the links to the latest updates on AnimeWorld.
 
 ## Dependencies
 
-- requiremensts.txt
-- 
+- pip install -r requiremensts.txt
+
 ## Installation
 
 1. Clone this repository.
