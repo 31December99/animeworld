@@ -9,13 +9,12 @@ from animeworld import Animeworld
 logging.basicConfig(level=logging.INFO)
 
 
-class Async:
+class Awbot:
     def __init__(self):
         self.loop = asyncio.get_event_loop()
 
     async def start(self, mainlink: str, page_n: int, prefix: str):
         """
-
         :param mainlink: indirizzo link della pagina filtrata per_
                                     stato = incorso
                                     sottotitoli = doppiato
@@ -27,7 +26,6 @@ class Async:
         :param prefix: prefisso per il database
         :return: void !
         """
-
         try:
 
             """
@@ -74,5 +72,5 @@ if __name__ == "__main__":
     # todo: la selezione della pagina è ancora manuale
     anime_incorso = "https://www.animeworld.so/filter?type=0&status=0&dub=1&language=it&sort=1&page="
 
-    async_manager = Async()
-    async_manager.loop.run_until_complete(async_manager.start(mainlink=anime_incorso, page_n=1, prefix='anime_incorso'))
+    awbot = Awbot()
+    awbot.loop.run_until_complete(awbot.start(mainlink=anime_incorso, page_n=1, prefix='anime_incorso'))
