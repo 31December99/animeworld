@@ -12,7 +12,7 @@ The program is functional but still in an early stage, undergoing constant modif
 
 ## Dependencies
 
-- pip install -r requiremensts.txt
+- pip install -r requirements.txt
 
 ## Installation
 
