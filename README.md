@@ -18,7 +18,7 @@ The program is functional but still in an early stage, undergoing constant modif
 
 1. Clone this repository.
 2. Install the required dependencies using PIP.
-3. Run the script with animewolrd.py
+3. Run the script with animeworld.py
 
 ## Configuration
 
